@@ -1,0 +1,6 @@
+{
+    "name": "thomas.kaestner/opening-hours",
+    "require": {
+        "spatie/opening-hours": "^2.10"
+    }
+}
